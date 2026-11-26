@@ -1,7 +1,7 @@
 /*
  * Smart Room Monitor — Simulation-First
  * --------------------------------------
- * Author:  [Your Name]
+ * Author:  Sanni Abdulrasheed Moyosore
  * Day:     11 of 30 (YouthMakers Innovation Hub #YIH30Days)
  * Board:   Arduino Uno (simulated on Wokwi)
  *
